@@ -6,8 +6,8 @@
 <div class='paper-box'><div class='paper-box-image'><div class="badge">GRSL 2022</div><img src='images/dcswin.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[A Novel Transformer Based Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9681903) \\
-**Libo Wang**, Rui Li, Chenxi Duan, Ce Zhang, Xiaoliang Meng and Shenghui Fang <strong><span class='show_paper_citations' data='ywBbW7AAAAAJ'></span></strong>\\
+[A Novel Transformer Based Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9681903) <strong><span class='show_paper_citations' data='ywBbW7AAAAAJ:aqlVkmm33-oC'></span></strong> \\
+**Libo Wang**, Rui Li, Chenxi Duan, Ce Zhang, Xiaoliang Meng and Shenghui Fang \\
 Code will be available at [Geovision Transformer ![](https://img.shields.io/github/stars/WangLibo1995/Geovision_Transformer?style=social)](https://github.com/WangLibo1995/Geovision_Transformer)
 
 </div>
