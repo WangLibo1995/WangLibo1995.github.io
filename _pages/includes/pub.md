@@ -8,7 +8,7 @@
 
 [A Novel Transformer Based Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9681903) \\
 **Libo Wang**, Rui Li, Chenxi Duan, Ce Zhang, Xiaoliang Meng and Shenghui Fang \\
-Code will be available at [Geovision Transformer ![](https://img.shields.io/github/stars/WangLibo1995/Geovision_Transformer?style=social)](https://github.com/WangLibo1995/Geovision_Transformer)
+Code will be available at [GeoSeg ![](https://img.shields.io/github/stars/WangLibo1995/GeoSeg?style=social)](https://github.com/WangLibo1995/GeoSeg)
 
 </div>
 </div>
@@ -18,7 +18,7 @@ Code will be available at [Geovision Transformer ![](https://img.shields.io/gith
 
 [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://www.mdpi.com/2072-4292/13/16/3065) \\
 **Libo Wang**, Rui Li, Dongzhi Wang, Chenxi Duan, Teng Wang and Xiaoliang Meng \\
-Code will be available at [Geovision Transformer ![](https://img.shields.io/github/stars/WangLibo1995/Geovision_Transformer?style=social)](https://github.com/WangLibo1995/Geovision_Transformer)
+Code will be available at [GeoSeg ![](https://img.shields.io/github/stars/WangLibo1995/GeoSeg?style=social)](https://github.com/WangLibo1995/GeoSeg)
 
 </div>
 </div>
