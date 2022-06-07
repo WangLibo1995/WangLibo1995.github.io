@@ -1,4 +1,6 @@
-**Welcome to My Homepage!** [visitors](https://visitor-badge.glitch.me/badge?page_id=WangLibo1995.github.io)
+**Welcome to My Homepage!** 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wanglibo1995.github.io)
 
 I received a M.S. degree from [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Wuhan University. Currently I am pursuing Ph.D. there. 
 
