@@ -1,5 +1,5 @@
 # 🔥 News
-- *2022.06*: Our work [Building extraction with vision transformer](https://arxiv.org/abs/2111.15637) has been accepted by TGRS.
+- *2022.06*: Our work [Building extraction with vision transformer](https://ieeexplore.ieee.org/document/9808187) has been accepted by TGRS.
 - *2022.06*: Our work [UNetFormer: A UNet-like Transformer for Efficient Semantic Segmentation of Remote Sensing Urban Scene Imagery](https://authors.elsevier.com/a/1fIji3I9x1j9Fs) has been accepted by ISPRS.
 - *2022.01*: 🎉🎉 Two papers are accepted:
   - [A Novel Transformer Based Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9681903), **Libo Wang**, Rui Li, Chenxi Duan, Ce Zhang, Xiaoliang Meng and Shenghui Fang

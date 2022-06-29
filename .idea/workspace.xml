@@ -4,6 +4,16 @@
     <list default="true" id="eaac9f23-fbb8-497a-8700-7a303f295b5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/includes/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/news.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/others.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/others.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/pub.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/pub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/500x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/abcnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dcswin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/manet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sanet.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +35,15 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/个人资料/个人学术主页/scholarpage/WangLibo1995.github.io/images&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\个人资料\个人学术主页\scholarpage\WangLibo1995.github.io\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -40,7 +56,10 @@
       <option name="presentableId" value="Default" />
       <updated>1650187719128</updated>
       <workItem from="1654573554357" duration="940000" />
-      <workItem from="1654574609145" duration="762000" />
+      <workItem from="1654574609145" duration="1069000" />
+      <workItem from="1655381741051" duration="1525000" />
+      <workItem from="1656146735243" duration="763000" />
+      <workItem from="1656459181656" duration="2324000" />
     </task>
     <servers />
   </component>
