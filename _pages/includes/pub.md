@@ -19,7 +19,7 @@ Code is available at [GeoSeg ![](https://img.shields.io/github/stars/WangLibo199
 
 [Building extraction with vision transformer](https://ieeexplore.ieee.org/document/9808187) \\
 *IEEE Transactions on Geoscience and Remote Sensing, 2022* \\
-**Libo Wang**, Shenghui Fang, Rui Li, Xiaoliang Meng \\
+**Libo Wang**, Shenghui Fang, Xiaoliang Meng, Rui Li \\
 Code is available at [BuildFormer ![](https://img.shields.io/github/stars/WangLibo1995/BuildFormer?style=social)](https://github.com/WangLibo1995/BuildFormer)
 
 </div>
