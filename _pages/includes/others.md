@@ -5,7 +5,8 @@
 - *2013.09 - 2017.06*, Bachelor, China University of Petroleum（East China), Qingdao, China.
 
 # 💻 Journal Reviewer
-- ISPRS Journal of Photogrammetry and Remote Sensing.
-- IEEE Transactions of Geoscience and Remote Sensing.
-- IEEE Geoscience and Remote Sensing Letters.
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- IEEE Transactions of Geoscience and Remote Sensing
+- IEEE Geoscience and Remote Sensing Letters
+- IEEE Selected Topics in Applied Earth Observations and Remote Sensing
 

@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ISPRS 2022</div><img src='images/unetformer.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[UNetFormer: A UNet-like Transformer for Efficient Semantic Segmentation of Remote Sensing Urban Scene Imagery](https://authors.elsevier.com/a/1fIji3I9x1j9Fs) \\
+[UNetFormer: A UNet-like Transformer for Efficient Semantic Segmentation of Remote Sensing Urban Scene Imagery](https://www.sciencedirect.com/science/article/pii/S0924271622001654) \\
 *ISPRS Journal of Photogrammetry and Remote Sensing, 2022* \\
 **Libo Wang**, Rui Li, Ce Zhang, Shenghui Fang, Chenxi Duan, Xiaoliang Meng, Peter M. Atkinson \\
 Code is available at [GeoSeg ![](https://img.shields.io/github/stars/WangLibo1995/GeoSeg?style=social)](https://github.com/WangLibo1995/GeoSeg)
