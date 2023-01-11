@@ -10,5 +10,5 @@
 - IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Geoscience and Remote Sensing Letters
 - IEEE Selected Topics in Applied Earth Observations and Remote Sensing
-- GIS & Remote Sensing
+- GIS and Remote Sensing
 - Remote Sensing
