@@ -1,6 +1,6 @@
 # 🔥 News
-- *2023.05*: Our paper [UNetFormer](https://www.sciencedirect.com/science/article/pii/S0924271622001654) achieved the [best paper award](https://www.isprs.org/society/awards/helava/2022.aspx) of ISPRS P&RS in 2022.
-- *2022.10*: One paper (corresponding author) [Class-Guided Swin Transformer for Semantic Segmentation of Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9921210) has been accepted by GRSL.
+- *2023.05*: Our paper [UNetFormer](https://www.sciencedirect.com/science/article/pii/S0924271622001654) achieved the [Best Paper Award](https://www.isprs.org/society/awards/helava/2022.aspx) of ISPRS in 2022.
+- *2022.10*: One paper (corresponding author) [Class-Guided Swin Transformer for Semantic Segmentation of Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9921210) has been accepted by IEEE GRSL.
 - *2022.06*: Our paper (first author) [Building extraction with vision transformer](https://ieeexplore.ieee.org/document/9808187) has been accepted by TGRS.
 - *2022.06*: Our paper (first author) [UNetFormer: A UNet-like Transformer for Efficient Semantic Segmentation of Remote Sensing Urban Scene Imagery](https://www.sciencedirect.com/science/article/pii/S0924271622001654) has been accepted by ISPRS.
 - *2022.01*: 🎉🎉 Two papers was accepted:
