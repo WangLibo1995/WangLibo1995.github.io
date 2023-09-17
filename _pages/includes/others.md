@@ -12,4 +12,6 @@
 - IEEE Geoscience and Remote Sensing Letters
 - IEEE Selected Topics in Applied Earth Observations and Remote Sensing
 - International Journal of Applied Earth Observation and Geoinformation
+- Applied Intelligence
+- Neurocomputing
 - Remote Sensing
