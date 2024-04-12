@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.02*: Our paper (co-author) [ChangeCLIP: Remote sensing change detection with multimodal vision-language representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271624000042) has been accepted by ISPRS.
 - *2023.09*: Our paper [UNetFormer](https://www.sciencedirect.com/science/article/pii/S0924271622001654) achieved the [U.V. Helava Best Paper Award](https://www.isprs.org/society/awards/helava/2022.aspx) of ISPRS in 2022.
 - *2022.10*: One paper (corresponding author) [Class-Guided Swin Transformer for Semantic Segmentation of Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9921210) has been accepted by IEEE GRSL.
 - *2022.06*: Our paper (first author) [Building extraction with vision transformer](https://ieeexplore.ieee.org/document/9808187) has been accepted by TGRS.

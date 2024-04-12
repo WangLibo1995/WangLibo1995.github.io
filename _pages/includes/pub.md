@@ -1,6 +1,5 @@
 
-# 📝 Publications 
-
+# 📝 Publications
 ## Vision Transformer
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div class="badge">ISPRS 2022</div><img src='images/unetformer.png' alt="sym" width="100%"></div>)
@@ -43,6 +42,9 @@
 - [A Novel Transformer Based Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9681903), *IEEE Geoscience and Remote Sensing Letters, 2022*, **Libo Wang**, Rui Li, Chenxi Duan, Ce Zhang, Xiaoliang Meng and Shenghui Fang* [[Code]](https://github.com/WangLibo1995/GeoSeg)
 - [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://www.mdpi.com/2072-4292/13/16/3065), *Remote Sensing, 2021*, **Libo Wang**, Rui Li, Dongzhi Wang, Chenxi Duan, Teng Wang* and Xiaoliang Meng [[Code]](https://github.com/WangLibo1995/GeoSeg)
 - [Class-Guided Swin Transformer for Semantic Segmentation of Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9921210), *IEEE Geoscience and Remote Sensing Letters, 2022*, Xiaoliang Meng, Yuechi Yang, **Libo Wang***, Teng Wang, Rui Li, and Ce Zhang.
+
+## Vision-language Representation Learning
+- [ChangeCLIP: Remote sensing change detection with multimodal vision-language representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271624000042), *ISPRS Journal of Photogrammetry and Remote Sensing, 2024*, Sijun Dong, **Libo Wang**, Bo Du, and Xiaoliang Meng. Code is available at [ChangeCLIP ![](https://img.shields.io/github/stars/dyzy41/ChangeCLIP?style=social)](https://github.com/dyzy41/ChangeCLIP) 
 
 ## Convolutional Neural Network
 
