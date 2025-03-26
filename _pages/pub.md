@@ -45,7 +45,7 @@
 
 ## Vision-language Representation Learning
 - [ChangeCLIP: Remote sensing change detection with multimodal vision-language representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271624000042), *ISPRS Journal of Photogrammetry and Remote Sensing, 2024*, Sijun Dong, **Libo Wang**, Bo Du, and Xiaoliang Meng. Code is available at [ChangeCLIP ![](https://img.shields.io/github/stars/dyzy41/ChangeCLIP?style=social)](https://github.com/dyzy41/ChangeCLIP) 
-- [MetaSegNet: Metadata-Collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10716466), *IEEE Transactions on Geoscience and Remote Sensing, 2024*, **Libo Wang**, Sijun Dong, Ying Chen, Xiaoliang Meng*, Shenghui Fang and Songlin Fei.
+- [MetaSegNet: Metadata-Collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10716466), *IEEE Transactions on Geoscience and Remote Sensing, 2024*, **Libo Wang**, Sijun Dong, Ying Chen, Xiaoliang Meng*, Shenghui Fang and Songlin Fei.  
 
 ## Convolutional Neural Network
 
