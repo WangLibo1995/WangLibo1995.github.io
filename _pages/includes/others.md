@@ -4,9 +4,9 @@
 - *2017.09 - 2019.06*,  Master,  Software Engineering,  Wuhan University
 - *2013.09 - 2017.06*,  Bachelor,  Geo-information Science,  China University of Petroleum（East China)
 
-# 📖 Funding
-- *2024.09 - 2026.09*,  Natural Science Foundation of Jiangsu Province, China (江苏省青年基金项目)
-- *2023.09 - 2025.09*,  Natural Science Foundation of the Jiangsu Higher Education Institutions of China (江苏省高校面上项目)
+# 📚 Funding
+- *2024.09 - 2026.09*,  Natural Science Foundation of Jiangsu Province, China (江苏省自然科学基金青年项目)
+- *2023.09 - 2025.09*,  Natural Science Foundation of the Jiangsu Higher Education Institutions of China (江苏省高等学校自然科学研究面上项目)
 
 # 💻 Journal Reviewer (Selected)
 - ISPRS Journal of Photogrammetry and Remote Sensing
