@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaac9f23-fbb8-497a-8700-7a303f295b5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/pub.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/pub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/android-chrome-512x512.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\个人资料\个人学术主页\scholarpage\WangLibo1995.github.io\_pages" />
       <recent name="D:\个人资料\个人学术主页\scholarpage\WangLibo1995.github.io\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\airs\WangLibo1995.github.io\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -93,6 +97,10 @@
       <workItem from="1742977388819" duration="325000" />
       <workItem from="1742977767681" duration="11000" />
       <workItem from="1742978218608" duration="742000" />
+      <workItem from="1742979359776" duration="813000" />
+      <workItem from="1744010494857" duration="602000" />
+      <workItem from="1747192259591" duration="8000" />
+      <workItem from="1781146375743" duration="419000" />
     </task>
     <servers />
   </component>
