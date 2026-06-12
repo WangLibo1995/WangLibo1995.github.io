@@ -1,59 +1,35 @@
 
 # 📝 Publications
-## Vision Transformer
+## Foundation Models, Vision-language and Generative Models
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div class="badge">ISPRS 2022</div><img src='images/unetformer.png' alt="sym" width="100%"></div>)
+- [PeftCD: Leveraging vision foundation models with parameter-efficient fine-tuning for remote sensing change detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:vV6vV6tmYwMC), *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2026*, S. Dong, Y. Hu, **Libo Wang**, G. Chen, Xiaoliang Meng. <span class='show_paper_citations' data='ywBbW7AAAAAJ:vV6vV6tmYwMC'>| Citations: 5</span>
+- [Wildfire-Diff: A Controllable Diffusion Framework for Synchronized Generation of Remote Sensing Wildfire Images and Masks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:lSLTfruPkqcC), *IEEE Transactions on Geoscience and Remote Sensing, 2026*, J. Wu, **Libo Wang**, Xiaoliang Meng, H. Liang, X. Chen, X. Zhang, G. Xia. <span class='show_paper_citations' data='ywBbW7AAAAAJ:lSLTfruPkqcC'>| Citations: 0</span>
+- [ChangeCLIP: Remote sensing change detection with multimodal vision-language representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271624000042), *ISPRS Journal of Photogrammetry and Remote Sensing, 2024*, Sijun Dong, **Libo Wang**, Bo Du, and Xiaoliang Meng. Code is available at [ChangeCLIP ![](https://img.shields.io/github/stars/dyzy41/ChangeCLIP?style=social)](https://github.com/dyzy41/ChangeCLIP) <span class='show_paper_citations' data='ywBbW7AAAAAJ:M3NEmzRMIkIC'>| Citations: 234</span>
+- [MetaSegNet: Metadata-Collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10716466), *IEEE Transactions on Geoscience and Remote Sensing, 2024*, **Libo Wang**, Sijun Dong, Ying Chen, Xiaoliang Meng*, Shenghui Fang and Songlin Fei. <span class='show_paper_citations' data='ywBbW7AAAAAJ:YFjsv_pBGBYC'>| Citations: 36</span>
 
-[//]: # (<div class='paper-box-text' markdown="1">)
+## Vision Transformer and State Space Models
 
-[//]: # ()
-[//]: # ([UNetFormer: A UNet-like Transformer for Efficient Semantic Segmentation of Remote Sensing Urban Scene Imagery]&#40;https://www.sciencedirect.com/science/article/pii/S0924271622001654&#41; \\)
-
-[//]: # (*ISPRS Journal of Photogrammetry and Remote Sensing, 2022* \\)
-
-[//]: # (**Libo Wang**, Rui Li, Ce Zhang, Shenghui Fang, Chenxi Duan, Xiaoliang Meng, Peter M. Atkinson \\)
-
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div class="badge">TGRS 2022</div><img src='images/buildformer.png' alt="sym" width="100%"></div>)
-
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # ([Building extraction with vision transformer]&#40;https://ieeexplore.ieee.org/document/9808187&#41; \\)
-
-[//]: # (*IEEE Transactions on Geoscience and Remote Sensing, 2022* \\)
-
-[//]: # (**Libo Wang**, Shenghui Fang, Xiaoliang Meng, Rui Li \\)
-
-
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # (</div>)
-- [UNetFormer: A UNet-like Transformer for Efficient Semantic Segmentation of Remote Sensing Urban Scene Imagery](https://www.sciencedirect.com/science/article/pii/S0924271622001654), *ISPRS Journal of Photogrammetry and Remote Sensing, 2022*, **Libo Wang**, Rui Li, Ce Zhang, Shenghui Fang*, Chenxi Duan, Xiaoliang Meng, Peter M. Atkinson. Code is available at [GeoSeg ![](https://img.shields.io/github/stars/WangLibo1995/GeoSeg?style=social)](https://github.com/WangLibo1995/GeoSeg)
-- [Building extraction with vision transformer](https://ieeexplore.ieee.org/document/9808187), *IEEE Transactions on Geoscience and Remote Sensing, 2022*, **Libo Wang**, Shenghui Fang*, Xiaoliang Meng, Rui Li. Code is available at [BuildFormer ![](https://img.shields.io/github/stars/WangLibo1995/BuildFormer?style=social)](https://github.com/WangLibo1995/BuildFormer)
-- [A Novel Transformer Based Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9681903), *IEEE Geoscience and Remote Sensing Letters, 2022*, **Libo Wang**, Rui Li, Chenxi Duan, Ce Zhang, Xiaoliang Meng and Shenghui Fang* [[Code]](https://github.com/WangLibo1995/GeoSeg)
-- [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://www.mdpi.com/2072-4292/13/16/3065), *Remote Sensing, 2021*, **Libo Wang**, Rui Li, Dongzhi Wang, Chenxi Duan, Teng Wang* and Xiaoliang Meng [[Code]](https://github.com/WangLibo1995/GeoSeg)
-- [Class-Guided Swin Transformer for Semantic Segmentation of Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9921210), *IEEE Geoscience and Remote Sensing Letters, 2022*, Xiaoliang Meng, Yuechi Yang, **Libo Wang***, Teng Wang, Rui Li, and Ce Zhang.
-
-## Vision-language Representation Learning
-- [ChangeCLIP: Remote sensing change detection with multimodal vision-language representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271624000042), *ISPRS Journal of Photogrammetry and Remote Sensing, 2024*, Sijun Dong, **Libo Wang**, Bo Du, and Xiaoliang Meng. Code is available at [ChangeCLIP ![](https://img.shields.io/github/stars/dyzy41/ChangeCLIP?style=social)](https://github.com/dyzy41/ChangeCLIP) 
-- [MetaSegNet: Metadata-Collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10716466), *IEEE Transactions on Geoscience and Remote Sensing, 2024*, **Libo Wang**, Sijun Dong, Ying Chen, Xiaoliang Meng*, Shenghui Fang and Songlin Fei.  
+- [SDFTransformer: A semantic discrepancy fusion transformer for joint land cover classification with optical and SAR images](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:2P1L_qKh6hAC), *International Journal of Applied Earth Observation and Geoinformation, 2026*, H. Liang, Xiaoliang Meng, **Libo Wang**, Sijun Dong, J. Wu, G. Zhang. <span class='show_paper_citations' data='ywBbW7AAAAAJ:2P1L_qKh6hAC'>| Citations: 0</span>
+- [GTCCT: Geography and Time-based Cloud Classification Transformer for Himawari-8 imagery](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:RYcK_YlVTxYC), *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2026*, J. Li, P. Liang, Q. Sheng, J. Xu, Z. Wu, H. Li, B. Wang, X. Ling, X. Liu, **Libo Wang**, et al. <span class='show_paper_citations' data='ywBbW7AAAAAJ:RYcK_YlVTxYC'>| Citations: 0</span>
+- [PyramidMamba: Rethinking pyramid feature fusion with selective space state model for semantic segmentation of remote sensing imagery](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:RGFaLdJalmkC), *International Journal of Applied Earth Observation and Geoinformation, 2025*, **Libo Wang**, D. Li, Sijun Dong, Xiaoliang Meng, X. Zhang, D. Hong. <span class='show_paper_citations' data='ywBbW7AAAAAJ:RGFaLdJalmkC'>| Citations: 94</span>
+- [MBS-Net: A Mamba-based Network for Efficient Remote Sensing Building Segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:35N4QoGY0k4C), *2025 International Conference on Signal Processing and Communication, 2025*, X. Wang, **Libo Wang**, Xiaoliang Meng. <span class='show_paper_citations' data='ywBbW7AAAAAJ:35N4QoGY0k4C'>| Citations: 0</span>
+- [UNetFormer: A UNet-like Transformer for Efficient Semantic Segmentation of Remote Sensing Urban Scene Imagery](https://www.sciencedirect.com/science/article/pii/S0924271622001654), *ISPRS Journal of Photogrammetry and Remote Sensing, 2022*, **Libo Wang**, Rui Li, Ce Zhang, Shenghui Fang*, Chenxi Duan, Xiaoliang Meng, Peter M. Atkinson. Code is available at [GeoSeg ![](https://img.shields.io/github/stars/WangLibo1995/GeoSeg?style=social)](https://github.com/WangLibo1995/GeoSeg) <span class='show_paper_citations' data='ywBbW7AAAAAJ:RHpTSmoSYBkC'>| Citations: 1446</span>
+- [Building extraction with vision transformer](https://ieeexplore.ieee.org/document/9808187), *IEEE Transactions on Geoscience and Remote Sensing, 2022*, **Libo Wang**, Shenghui Fang*, Xiaoliang Meng, Rui Li. Code is available at [BuildFormer ![](https://img.shields.io/github/stars/WangLibo1995/BuildFormer?style=social)](https://github.com/WangLibo1995/BuildFormer) <span class='show_paper_citations' data='ywBbW7AAAAAJ:_Qo2XoVZTnwC'>| Citations: 347</span>
+- [A Novel Transformer Based Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9681903), *IEEE Geoscience and Remote Sensing Letters, 2022*, **Libo Wang**, Rui Li, Chenxi Duan, Ce Zhang, Xiaoliang Meng and Shenghui Fang* [[Code]](https://github.com/WangLibo1995/GeoSeg) <span class='show_paper_citations' data='ywBbW7AAAAAJ:hFOr9nPyWt4C'>| Citations: 551</span>
+- [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://www.mdpi.com/2072-4292/13/16/3065), *Remote Sensing, 2021*, **Libo Wang**, Rui Li, Dongzhi Wang, Chenxi Duan, Teng Wang* and Xiaoliang Meng [[Code]](https://github.com/WangLibo1995/GeoSeg) <span class='show_paper_citations' data='ywBbW7AAAAAJ:Se3iqnhoufwC'>| Citations: 300</span>
+- [Class-Guided Swin Transformer for Semantic Segmentation of Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9921210), *IEEE Geoscience and Remote Sensing Letters, 2022*, Xiaoliang Meng, Yuechi Yang, **Libo Wang***, Teng Wang, Rui Li, and Ce Zhang. <span class='show_paper_citations' data='ywBbW7AAAAAJ:4JMBOYKVnBMC'>| Citations: 98</span>
 
 ## Convolutional Neural Network
 
-- [ABCNet: Attentive Bilateral Contextual Network for Efficient Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://www.sciencedirect.com/science/article/pii/S0924271621002379), *ISPRS Journal of Photogrammetry and Remote Sensing, 2021*, Rui Li, Shunyi Zheng, Ce Zhang, Chenxi Duan*, **Libo Wang**, Peter M. Atkinson [[Code]](https://github.com/WangLibo1995/GeoSeg)
-- [Multiattention network for semantic segmentation of fine-resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/9487010), *IEEE Transactions on Geoscience and Remote Sensing, 2021*, Rui Li, Shunyi Zheng, Ce Zhang, Chenxi Duan*, Jianlin Su, **Libo Wang**, Peter M. Atkinson [[Code]](https://github.com/WangLibo1995/GeoSeg)
-- [A2-FPN for semantic segmentation of fine-resolution remotely sensed images](https://www.tandfonline.com/doi/full/10.1080/01431161.2022.2030071), *International Journal of Remote Sensing, 2022* Rui Li, **Libo Wang**, Ce Zhang, Chenxi Duan* and Shunyi Zheng [[Code]](https://github.com/WangLibo1995/GeoSeg)
-- [Land cover classification from remote sensing images based on multi-scale fully convolutional network](https://www.tandfonline.com/doi/full/10.1080/10095020.2021.2017237), *Geo-spatial Information Science, 2022*, Rui Li, Shunyi Zheng, Chenxi Duan*, **Libo Wang**, Ce Zhang
-- [Scale-Aware Neural Network for Semantic Segmentation of Multi-Resolution Remote Sensing Images](https://www.mdpi.com/2072-4292/13/24/5015), *Remote Sensing, 2021*, **Libo Wang**, Ce Zhang, Rui Li, Chenxi Duan, Xiaoliang Meng*, Peter M. Atkinson
+- [ESFCNet: Efficient Spatial-Frequency Complementary Network for Real-time Semantic Segmentation of Unmanned Aerial Vehicle Images](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:J_g5lzvAfSwC), *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2026*, Q. Guo, Z. Qi, **Libo Wang**. <span class='show_paper_citations' data='ywBbW7AAAAAJ:J_g5lzvAfSwC'>| Citations: 0</span>
+- [ABCNet: Attentive Bilateral Contextual Network for Efficient Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://www.sciencedirect.com/science/article/pii/S0924271621002379), *ISPRS Journal of Photogrammetry and Remote Sensing, 2021*, Rui Li, Shunyi Zheng, Ce Zhang, Chenxi Duan*, **Libo Wang**, Peter M. Atkinson [[Code]](https://github.com/WangLibo1995/GeoSeg) <span class='show_paper_citations' data='ywBbW7AAAAAJ:YsMSGLbcyi4C'>| Citations: 483</span>
+- [Multiattention network for semantic segmentation of fine-resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/9487010), *IEEE Transactions on Geoscience and Remote Sensing, 2021*, Rui Li, Shunyi Zheng, Ce Zhang, Chenxi Duan*, Jianlin Su, **Libo Wang**, Peter M. Atkinson [[Code]](https://github.com/WangLibo1995/GeoSeg) <span class='show_paper_citations' data='ywBbW7AAAAAJ:ULOm3_A8WrAC'>| Citations: 661</span>
+- [A2-FPN for semantic segmentation of fine-resolution remotely sensed images](https://www.tandfonline.com/doi/full/10.1080/01431161.2022.2030071), *International Journal of Remote Sensing, 2022*, Rui Li, **Libo Wang**, Ce Zhang, Chenxi Duan* and Shunyi Zheng [[Code]](https://github.com/WangLibo1995/GeoSeg) <span class='show_paper_citations' data='ywBbW7AAAAAJ:4DMP91E08xMC'>| Citations: 211</span>
+- [Land cover classification from remote sensing images based on multi-scale fully convolutional network](https://www.tandfonline.com/doi/full/10.1080/10095020.2021.2017237), *Geo-spatial Information Science, 2022*, Rui Li, Shunyi Zheng, Chenxi Duan*, **Libo Wang**, Ce Zhang. <span class='show_paper_citations' data='ywBbW7AAAAAJ:kNdYIx-mwKoC'>| Citations: 201</span>
+- [Scale-Aware Neural Network for Semantic Segmentation of Multi-Resolution Remote Sensing Images](https://www.mdpi.com/2072-4292/13/24/5015), *Remote Sensing, 2021*, **Libo Wang**, Ce Zhang, Rui Li, Chenxi Duan, Xiaoliang Meng*, Peter M. Atkinson. <span class='show_paper_citations' data='ywBbW7AAAAAJ:5nxA0vEk-isC'>| Citations: 37</span>
 
+## Remote Sensing Applications
 
-
+- [Exploring Infrared and Visible Feature Fusion for Earth Surface Anomaly Detection: From Benchmark Dataset to Spatial-Spectrum Adaptation Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:NaGl4SEjCO4C), *IEEE Transactions on Geoscience and Remote Sensing, 2026*, **Libo Wang**, D. Li, Z. Gao, W. Zhu, Q. Wang. <span class='show_paper_citations' data='ywBbW7AAAAAJ:NaGl4SEjCO4C'>| Citations: 0</span>
+- [Land use and climatic drivers of early 21st-century fire activity in the Amazon](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:BqipwSGYUEgC), *Agricultural and Forest Meteorology, 2025*, W. Xu, J. Cen, L. Fan, Y. Liu, T. A. J. Janssen, P. Liu, W. Wu, **Libo Wang**, N. Li, et al. <span class='show_paper_citations' data='ywBbW7AAAAAJ:BqipwSGYUEgC'>| Citations: 8</span>
+- [A novel earth surface anomaly detection method based on collaborative reasoning of deep learning and remote sensing indexes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:70eg2SAEIzsC), *Journal of Electronics & Information Technology, 2025*, **Libo Wang**, Z. Gao, Q. Wang. <span class='show_paper_citations' data='ywBbW7AAAAAJ:70eg2SAEIzsC'>| Citations: 4</span>
