@@ -2,6 +2,7 @@
 # 📝 Publications
 ## Foundation Models, Vision-language and Generative Models
 
+- [MultiMoE: Multimodal Mixture of Experts Adapter for Semantic Segmentation of Remote Sensing Images](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:ldfaerwXgEUC), *IEEE Transactions on Geoscience and Remote Sensing, 2026*, Z. Qi, Q. Guo, **Libo Wang**, Y. Zhou.
 - [PeftCD: Leveraging vision foundation models with parameter-efficient fine-tuning for remote sensing change detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:vV6vV6tmYwMC), *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2026*, S. Dong, Y. Hu, **Libo Wang**, G. Chen, Xiaoliang Meng.
 - [Wildfire-Diff: A Controllable Diffusion Framework for Synchronized Generation of Remote Sensing Wildfire Images and Masks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ywBbW7AAAAAJ&citation_for_view=ywBbW7AAAAAJ:lSLTfruPkqcC), *IEEE Transactions on Geoscience and Remote Sensing, 2026*, J. Wu, **Libo Wang**, Xiaoliang Meng, H. Liang, X. Chen, X. Zhang, G. Xia.
 - [ChangeCLIP: Remote sensing change detection with multimodal vision-language representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271624000042), *ISPRS Journal of Photogrammetry and Remote Sensing, 2024*, Sijun Dong, **Libo Wang**, Bo Du, and Xiaoliang Meng. Code is available at [ChangeCLIP ![](https://img.shields.io/github/stars/dyzy41/ChangeCLIP?style=social)](https://github.com/dyzy41/ChangeCLIP)
@@ -17,7 +18,7 @@
 - [Building extraction with vision transformer](https://ieeexplore.ieee.org/document/9808187), *IEEE Transactions on Geoscience and Remote Sensing, 2022*, **Libo Wang**, Shenghui Fang*, Xiaoliang Meng, Rui Li. Code is available at [BuildFormer ![](https://img.shields.io/github/stars/WangLibo1995/BuildFormer?style=social)](https://github.com/WangLibo1995/BuildFormer)
 - [A Novel Transformer Based Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9681903), *IEEE Geoscience and Remote Sensing Letters, 2022*, **Libo Wang**, Rui Li, Chenxi Duan, Ce Zhang, Xiaoliang Meng and Shenghui Fang* [[Code]](https://github.com/WangLibo1995/GeoSeg)
 - [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://www.mdpi.com/2072-4292/13/16/3065), *Remote Sensing, 2021*, **Libo Wang**, Rui Li, Dongzhi Wang, Chenxi Duan, Teng Wang* and Xiaoliang Meng [[Code]](https://github.com/WangLibo1995/GeoSeg)
-- [Class-Guided Swin Transformer for Semantic Segmentation of Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9921210), *IEEE Geoscience and Remote Sensing Letters, 2022*, Xiaoliang Meng, Yuechi Yang, **Libo Wang***, Teng Wang, Rui Li, and Ce Zhang.
+- [Class-Guided Swin Transformer for Semantic Segmentation of Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9921210), *IEEE Geoscience and Remote Sensing Letters, 2022*, Xiaoliang Meng, Yuechi Yang, **Libo Wang***, Teng Wang, Rui Li, and Ce Zhang. (*corresponding author*)
 
 ## Convolutional Neural Network
 

@@ -2,6 +2,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wanglibo1995.github.io)
 
-I received my PhD from [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Wuhan University.  
+I am a Longshan Scholar Associate Professor and master's supervisor at the [School of Remote Sensing and Geomatics Engineering](https://ycxy.nuist.edu.cn/), Nanjing University of Information Science and Technology. I received my PhD from the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Wuhan University.
 
-I focus on developing advanced deep learning technologies for remote sensing image analysis. My research interests include computer vision, semantic segmentation, building extraction and foundation model. I have published 10+ papers with [cations 2000+](https://scholar.google.com/citations?user=ywBbW7AAAAAJ) in the remote sensing field, including ISPRS, TGRS, GRSL, etc.
+My research interests include intelligent interpretation of remote sensing imagery, computer vision, and multimodal AI. I have published 20+ SCI papers, including 10 first-author/corresponding-author papers and 3 highly cited papers, with [citations <span id="total_cit">4,761</span>](https://scholar.google.com/citations?user=ywBbW7AAAAAJ) in the remote sensing field.
