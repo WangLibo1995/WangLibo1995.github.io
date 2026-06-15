@@ -1,6 +1,6 @@
 **Welcome to My Homepage!**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wanglibo1995.github.io)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WangLibo1995.github.io&left_text=Visitors)](https://wanglibo1995.github.io/)
 
 I am an Associate Professor and master's supervisor at Nanjing University of Information Science and Technology. I am also a PostDoc. at University of Macau with Macau Young Scholar Program. 
 

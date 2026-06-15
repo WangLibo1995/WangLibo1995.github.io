@@ -1,6 +1,6 @@
 **Welcome to My Homepage!**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wanglibo1995.github.io)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WangLibo1995.github.io&left_text=Visitors)](https://wanglibo1995.github.io/)
 
 I am a Longshan Scholar Associate Professor and master's supervisor at the [School of Remote Sensing and Geomatics Engineering](https://ycxy.nuist.edu.cn/), Nanjing University of Information Science and Technology. I received my PhD from the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Wuhan University.
 
